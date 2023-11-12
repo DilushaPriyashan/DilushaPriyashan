@@ -40,4 +40,11 @@
 <a href="https://www.figma.com/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://postman.com" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" width="40" /></a>
+
+### Operating Systems
+<a href="https://ubuntu.com/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" alt="Ubuntu" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/windows?r=1" target="blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywwmIrTMRXaEAung3AXTaG14VzevV3-3UPw&usqp=CAU" alt="Windows" height="40" width="40" /></a>
+
 </p>
+
+
