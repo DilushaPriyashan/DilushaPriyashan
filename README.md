@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilusha Priyashan</h1>
 <h3 align="left">About me:</h3>
 <h3 align="center">🎓 a graduate engineering student with a passion for 👨‍💻 web development.</h3>
-<p align="left">An engineering graduate with a strong interest in web development and also passionate about ML. I've cultivated my expertise in both the front-end and back-end aspects of web development. My aim is to design attractive websites that offer outstanding user experiences. What truly fascinates me about web development is its constant evolution. I'm fully committed to staying current with the latest technologies and trends, always on the lookout for opportunities to enhance my knowledge and skills. Whether it involves mastering new frameworks or exploring creative design approaches, I'm dedicated to pushing the boundaries of what can be achieved in the digital realm."</p>
+<p align="left">An engineering graduate with a strong interest in web development and also passionate about ML. I've cultivated my expertise in both the front-end and back-end aspects of web development. My aim is to design attractive websites that offer outstanding user experiences. What truly fascinates me about web development is its constant evolution. I'm fully committed to staying current with the latest technologies and trends, always on the lookout for opportunities to enhance my knowledge and skills. Whether it involves mastering new frameworks or exploring creative design approaches, I'm dedicated to pushing the boundaries of what can be achieved in the digital realm.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
